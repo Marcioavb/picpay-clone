@@ -4,7 +4,6 @@ import javax.persistence.MappedSuperclass;
 
 @MappedSuperclass
 public class EntidadeBase {
-
     private Long id;
 
     public Long getId() {
